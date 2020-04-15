@@ -42,7 +42,8 @@ function basicDetail(basics){
    `<h2 style="text-align:center">${basics.name}</h2>
     <h4 style="text-align:center">Designation : ${basics.label}</h4>
     <h4 style="text-align:center">Email : ${basics.email}</h4>
-    <h5 style="text-align:center">${basics.location.address}, ${basics.location.city}, ${basics.location.region}. Mobile:  ${basics.phone}</h5>
+    <h4 style="text-align:center"> Mobile:  ${basics.phone}</h4>
+    <h5 style="text-align:center">${basics.location.address}, ${basics.location.city}, ${basics.location.region} - ${basics.location.postalCode}.</h5>
     <h5 style="text-align:center"> ${profileData} </h5>`;
 }
 
