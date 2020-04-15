@@ -1,0 +1,134 @@
+{
+    "basics": {
+      "name": "Anup Sharma",
+      "label": "Software Engineer",
+      "picture": "",
+      "email": "anupkumarr11@gmail.com",
+      "phone": "+91-7869070340",
+      "website": "http://anupsharma.in",
+      "summary": "A summary of Anup Sharma...",
+      "location": {
+        "address": "347/B Jaya Niwas",
+        "postalCode": "500084",
+        "city": "Hyderabad",
+        "countryCode": "India",
+        "region": "Telangana"
+      },
+      "profiles": [{
+        "network": "Twitter",
+        "username": "sharmaanup92",
+        "url": "http://twitter.com/sharmaanup92"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sharmaanup",
+        "url": "http://linkedin.com/sharmaanup"
+      }]
+    },
+    "work": [{
+      "company": "Telebu Comm.",
+      "position": "Software Engineer",
+      "website": "http://telebu.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Worked as software engg....",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "company": "TA Digital",
+      "position": "Software Engineer",
+      "website": "http://tadigital.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Worked as software engg....",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "education": [{
+      "institution": "CSVTU, Bhilai",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01",
+      "gpa": "8.0",
+      "courses": [
+        "C"
+      ]
+    },
+    {
+      "institution": "Rajendra College",
+      "area": "Science",
+      "studyType": "Intermediate",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01",
+      "gpa": "8.0",
+      "courses": [
+        "C"
+      ]
+    }],
+    "awards": [{
+      "title": "Writer",
+      "date": "2014-11-01",
+      "awarder": "Telebu",
+      "summary": ""
+    }],
+    "publications": [{
+      "name": "Research Paper",
+      "publisher": "Research",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    },
+    {
+      "name": "Book",
+      "publisher": "Book",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }],
+
+    "skills": [{
+      "name": "UI Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Digital",
+      "level": "Basic",
+      "keywords": [
+        "Marketo"
+      
+      ]
+    }],
+
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    }],
+
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    },
+    {
+      "name": "Visiting",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }]
+  }
